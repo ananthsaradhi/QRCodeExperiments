@@ -22,6 +22,11 @@ def myqrread(ipfilename):
     print(f'QR Reading complete ! \nThe output string is:  {opstring}')
     return opstring
 
+#Add CRUD Code here
+#Create a Database (locally / remotely)
+#Create a table in the database (locally/remotely)
+#
+
 #Calling the functions here
 myqrgen(ipstr, opfile)
 
