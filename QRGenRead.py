@@ -25,7 +25,8 @@ def myqrread(ipfilename):
 #Add CRUD Code here
 #Create a Database (locally / remotely)
 #Create a table in the database (locally/remotely)
-#
+#Create funtions to C, R, U and D the DB - ?
+
 
 #Calling the functions here
 myqrgen(ipstr, opfile)
